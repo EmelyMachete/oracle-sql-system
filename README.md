@@ -1,6 +1,6 @@
 # 🧠 Oracle SQL System – SwiftTrans Logistics
 
-This project simulates a logistics database solution using Oracle SQL Developer. It covers the full lifecycle of database design, from conceptual modeling to physical implementation — with advanced SQL features for data automation, validation, and secure operations.
+This project simulates a logistics database solution using Oracle SQL Developer. It covers the full lifecycle of database design, from conceptual modeling to physical implementation with advanced SQL features for data automation, validation, and secure operations.
 
 ---
 
