@@ -23,8 +23,8 @@ This project simulates a logistics database solution using Oracle SQL Developer.
 ---
 
 ## 📄 Files Included
-
-- `oracle-sql-system.pdf` – Full project documentation and analysis
+Full project documentation and analysis
+<p>📄 File Included: <a href="https://github.com/EmelyMachete/oracle-sql-system/blob/main/oracle-sql-system.pdf" target="_blank">oracle-sql-system.pdf</a></p>
 
 ---
 
